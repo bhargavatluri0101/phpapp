@@ -1,3 +1,12 @@
-<?php 
-echo "This is Version - 1"; 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>AWS-Batch</h1>
+
+<?php
+echo "Version";
 ?>
+
+</body>
+</html> 
